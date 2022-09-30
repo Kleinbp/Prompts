@@ -1,4 +1,4 @@
-# Script created by Philip Kleinberg #001510253
+# Script created by Philip
 
 #Varibles for script
 $folder_path = "$env:USERPROFILE\Desktop\Requirements1" #unzip requirements1 folder on desktop for script to work
